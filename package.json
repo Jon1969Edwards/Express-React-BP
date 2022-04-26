@@ -16,6 +16,7 @@
     "babel-loader": "^8.0.4",
     "express": "^4.16.4",
     "nodemon": "^2.0.15",
+    "public-ip": "^5.0.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "unique-names-generator": "^4.7.1",
